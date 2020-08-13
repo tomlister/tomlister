@@ -1,6 +1,6 @@
 ### G'day 👋🦘
 
-![Art](https://github.com/tomlister/tomlister/blob/master/download%20(1).png?raw=true 344)
+![Art](https://github.com/tomlister/tomlister/blob/master/download%20(1).png?raw=true)
 
 - 🔭 I’m currently working on school projects, passion projects and open source software.
 - 🌱 I’m currently learning ML.
