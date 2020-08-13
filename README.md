@@ -6,7 +6,7 @@
 <li class="has-line-data" data-line-start="2" data-line-end="3">👯 I’m looking to collaborate on open source software.</li>
 <li class="has-line-data" data-line-start="3" data-line-end="4">📫 How to reach me: <a href="mailto:tom@tomlister.net">tom@tomlister.net</a></li>
 <li class="has-line-data" data-line-start="4" data-line-end="5">⚡ Fun fact: I like making music in my spare time.</li>
-</ul></div><img src="https://github.com/tomlister/tomlister/blob/master/download%20(1).png?raw=true" width="200"></div>
+</ul></div><img align="center" src="https://github.com/tomlister/tomlister/blob/master/download%20(1).png?raw=true" width="200"></div>
 
 ## I've contributed to
 - [Ebiten](https://github.com/hajimehoshi/ebiten)
